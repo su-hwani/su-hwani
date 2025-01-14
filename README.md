@@ -25,8 +25,8 @@
 
 | 기간 | 내용 |
 | --- | --- |
-| 2025.01 ~ 진행 중　|QR코드로 만드는 선착순 시스템 '<a href="https://github.com/Eun-sun-Lee/capstone-2024-25">QR-World</a>' Frontend 개발 |
-| 2025.01 ~ 진행 중　|QR코드로 만드는 선착순 시스템 '<a href="https://github.com/Eun-sun-Lee/capstone-2024-25">QR-World</a>' Backend 개발 |
+| 2025.01 ~ 진행 중　|QR코드로 만드는 선착순 시스템 '<a>QR-World</a>' Frontend 개발 |
+| 2025.01 ~ 진행 중　|QR코드로 만드는 선착순 시스템 '<a>QR-World</a>' Backend 개발 |
 | 2024.08 ~ 2024.12　|(인턴)사내 문서 협업 시스템 구축 '<a>Sigma</a>' Backend 개발 |
 | 2024.06 ~ 2024.12　|(인턴)A+에셋 사내 자동화 시스템 구축 '<a>World개편</a>' Backend 개발　|　
 | 2024.02 ~ 2024.06　|지능형 실종자 검출 시스템 '<a href="https://github.com/kookmin-sw/capstone-2024-14">PROBEE</a>' Backend 개발 및 Infra 담당　|
