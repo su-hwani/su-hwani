@@ -58,7 +58,6 @@
 <img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white" />
 
 ### Cloud
-<img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" /> <img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" /> <img src="https://img.shields.io/badge/NCP-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" />
 
-![Suhwani's github stats](https://github-readme-stats.vercel.app/api?username=su-hwani&show_icons=true&theme=white) 
 
