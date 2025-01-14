@@ -29,10 +29,10 @@
 | 2025.01 ~ 진행 중　|QR코드로 만드는 선착순 시스템 '<a href="https://github.com/Eun-sun-Lee/capstone-2024-25">QR-World</a>' Backend 개발 |
 | 2024.08 ~ 2024.12　|(인턴)사내 문서 협업 시스템 구축 '<a>Sigma</a>' Backend 개발 |
 | 2024.06 ~ 2024.12　|(인턴)A+에셋 사내 자동화 시스템 구축 '<a>World개편</a>' Backend 개발　|　
-| 2024.02 ~ 2024.06　|지능형 실종자 검출 시스템 '<a href="https://github.com/People-zero/Bzero">PROBEE</a>' Backend 개발 및 Infra 담당　|
-| 2024.01 ~ 2024.02　|링크로 모으는 맛집 리스트 '<a href="https://github.com/Eun-sun-Lee/eatogether">먹킷링크</a>' Backend 개발 및 Infra 담당　|
-| 2024.01 ~ 2024.03　|자신의 강약점 발굴 서비스 '<a href="https://github.com/MopeTeam1/Nemsy_client">meView</a>' Backend 개발 및 Infra 담당|
-| 2023.07 ~ 2023.12　|(주)오브젠 AI 챗봇 서비스 '<a href="https://github.com/ShuPool/Shupool-frontend">AI 챗봇 서비스</a>' Backend 개발 |　
+| 2024.02 ~ 2024.06　|지능형 실종자 검출 시스템 '<a href="https://github.com/kookmin-sw/capstone-2024-14">PROBEE</a>' Backend 개발 및 Infra 담당　|
+| 2024.01 ~ 2024.02　|링크로 모으는 맛집 리스트 '<a href="https://github.com/zzub-zzub-bak-sa/backend">먹킷링크</a>' Backend 개발 및 Infra 담당　|
+| 2024.01 ~ 2024.03　|자신의 강약점 발굴 서비스 '<a href="https://github.com/meView/meView_Back">meView</a>' Backend 개발 및 Infra 담당|
+| 2023.07 ~ 2023.12　|(주)오브젠 AI 챗봇 서비스 '<a href="https://github.com/su-hwani/kookmin-obzen-project">AI 챗봇 서비스</a>' Backend 개발 |　
 
 
 
