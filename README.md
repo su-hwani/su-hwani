@@ -13,9 +13,9 @@
 
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
-|(주) 콘캣|2024.06 ~ 진행 중|Backend 인턴 개발자|
-|Cloud Club|2024.08 ~ 진행 중|IT 연합동아리|　　
-|국민대학교|2019.03 ~ 2025.02|국민대학교 졸업예정|
+|(주) 콘캣|2025.09 ~ 진행 중|Backend 개발자|
+|(주) 콘캣|2024.06 ~ 2025.09|Backend 인턴 개발자|
+|국민대학교|2019.03 ~ 2025.02|국민대학교 졸업|
 |(주)카카오뱅크|2024.11 ~ 2024.12|카카오뱅크 산학협력 프로젝트|　　　　　　　　
 |(주)오브젠|2023.07 ~ 2023.12|오브젠 산학협력 프로젝트|
 |CodeStates캠프|2023.06 ~ 2023.07|CodeStates PBL 캠프|
@@ -25,8 +25,8 @@
 
 | 기간 | 내용 |
 | --- | --- |
-| 2025.01 ~ 진행 중　|QR코드로 만드는 선착순 시스템 '<a href="https://github.com/qr-playground/front">QR-World</a>' Frontend 개발 |
-| 2025.01 ~ 진행 중　|QR코드로 만드는 선착순 시스템 '<a href="https://github.com/qr-playground/server">QR-World</a>' Backend 개발 |
+| 2025.01 ~ 2025.09　|QR코드로 만드는 선착순 시스템 '<a href="https://github.com/qr-playground/front">QR-World</a>' Frontend 개발 |
+| 2025.01 ~ 2025.09　|QR코드로 만드는 선착순 시스템 '<a href="https://github.com/qr-playground/server">QR-World</a>' Backend 개발 |
 | 2024.08 ~ 2024.12　|(인턴)사내 문서 협업 시스템 구축 '<a>Sigma</a>' Backend 개발 |
 | 2024.06 ~ 2024.12　|(인턴)A+에셋 사내 자동화 시스템 구축 '<a>World개편</a>' Backend 개발　|　
 | 2024.02 ~ 2024.06　|지능형 실종자 검출 시스템 '<a href="https://github.com/kookmin-sw/capstone-2024-14">PROBEE</a>' Backend 개발 및 Infra 담당　|
